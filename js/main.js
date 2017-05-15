@@ -1,3 +1,6 @@
+alert("JavaScript file is connected!");
+
+
 /*global alert, console*/
 /*var fruits = [
     "apple",
